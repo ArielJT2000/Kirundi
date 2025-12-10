@@ -1,16 +1,8 @@
 # misionescci
+La aplicación desarrollada por Centro Cristiano Internacional es una plataforma dinámica diseñada para fomentar la interacción activa con los usuarios. Su principal enfoque es permitir que las personas aprendan y practiquen la pronunciación de palabras en kirundi, promoviendo el aprendizaje de una manera participativa y accesible.
 
-A new Flutter project.
+Esta iniciativa se basa en un día de festejo y celebración (Primicia Misionera), en el cual una red cristiana extiende su alcance hacia nuevos lugares para compartir el mensaje del evangelio. A través de la aplicación, los usuarios no solo se conectan con esta celebración, sino que también fortalecen su conocimiento cultural y lingüístico, facilitando una comunicación más cercana y significativa.
 
-## Getting Started
+De esta manera, el Centro Cristiano Internacional combina tecnología, fe y educación, creando una herramienta innovadora que impulsa el aprendizaje, la interacción y la expansión del mensaje cristiano a nivel global.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image Alt]([image_url](https://github.com/ArielJT2000/Kirundi/blob/c199266a56d5566ad535006f99863868f2bf9cc5/KIRUNDI.png))
