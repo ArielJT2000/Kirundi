@@ -5,4 +5,4 @@ Esta iniciativa se basa en un día de festejo y celebración (Primicia Misionera
 
 De esta manera, el Centro Cristiano Internacional combina tecnología, fe y educación, creando una herramienta innovadora que impulsa el aprendizaje, la interacción y la expansión del mensaje cristiano a nivel global.
 
-![Image Alt]([image_url](https://github.com/ArielJT2000/Kirundi/blob/c199266a56d5566ad535006f99863868f2bf9cc5/KIRUNDI.png)
+![Image Alt]([image_url](https://github.com/ArielJT2000/Kirundi/blob/main/KIRUNDI.png?raw=true))
